@@ -2,7 +2,4 @@ fideos
 manteca
 huevos
 arroz
-salsa
-cebolla
-agua
-sal
+
