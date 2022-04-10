@@ -4,3 +4,5 @@ huevos
 arroz
 salsa
 cebolla
+agua
+sal
